@@ -12,7 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -55,9 +54,3 @@ What i've learned whit this challenge is to apply a colored box in front of a im
 - Website - [Marco Perez Donoso](https://marcopdonoso.github.io)
 - Frontend Mentor - [@marcopdonoso](https://www.frontendmentor.io/profile/marcopdonoso)
 - Twitter - [@marcopodonoso](https://twitter.com/marcopdonoso)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
